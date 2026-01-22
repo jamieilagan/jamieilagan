@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Jamie</h1>
+<h1 align="center">Hi! I'm Jamie.</h1>
 <h3 align="center">I'm a learning graphic designer and programmer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jamieilagan.github.io/](https://jamieilagan.github.io/)
